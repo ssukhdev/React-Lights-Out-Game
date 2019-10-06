@@ -6,7 +6,7 @@ class Board extends Component {
   static defaultProps = {
     ncols: 5,
     nrows: 5,
-    chanceLightStartsOn: 0.33,
+    chanceLightStartsOn: 0.30,
   };
   constructor(props) {
     super(props);
